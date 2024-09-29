@@ -5,10 +5,11 @@ import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
-  "Powerfull online protection.",
-  "Internet without borders.",
-  "Supercharged VPN",
-  "No specific time limits."
+  "Downloaders",
+  "Converters",
+  "Image Processors",
+  "Image Generators",
+  "Game Username Checkers"
 ]
 
 const Feature = () => {
@@ -24,7 +25,7 @@ const Feature = () => {
           <motion.div className="h-full w-full p-4" variants={scrollAnimation}>
             <Image
               src="/assets/Illustration2.png"
-              alt="VPN Illustrasi"
+              alt="RonzzAPI"
               layout="responsive"
               quality={100}
               height={414}
