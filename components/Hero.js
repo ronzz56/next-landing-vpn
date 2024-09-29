@@ -48,7 +48,7 @@ const Hero = ({
               <motion.div className="h-full w-full" variants={scrollAnimation}>
                 <Image
                   src="/assets/Illustration1.png"
-                  alt="VPN Illustrasi"
+                  alt="RonzzAPI"
                   quality={100}
                   width={612}
                   height={383}
