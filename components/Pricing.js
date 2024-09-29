@@ -68,7 +68,7 @@ const Pricing = () => {
                   <p className="text-2xl text-black-600 text-center mb-4 ">
                     Free
                   </p>
-                  <ButtonOutline>Select</ButtonOutline>
+                  <a href="/signup"><ButtonOutline>Select</ButtonOutline></a>
                 </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -109,7 +109,7 @@ const Pricing = () => {
                 <p className="text-2xl text-black-600 text-center mb-4 ">
                   Rp10.000 <span className="text-black-500">/ mo</span>
                 </p>
-                <ButtonOutline>Select</ButtonOutline>
+                <a href="https://wa.me/628817861263"><ButtonOutline>Select</ButtonOutline></a>
               </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -154,7 +154,7 @@ const Pricing = () => {
                   Rp20.000 <span className="text-black-500">/ mo</span>
                 </p>
 
-                <ButtonOutline>Select</ButtonOutline>
+                <a href="https://wa.me/628817861263"><ButtonOutline>Select</ButtonOutline></a>
               </div>
               </motion.div>
             </ScrollAnimationWrapper>
