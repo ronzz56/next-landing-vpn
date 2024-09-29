@@ -86,7 +86,7 @@ const Header = () => {
               <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
                   Sign In
               </a>
-            </Link href="/signup">
+            </Link>
             <ButtonOutline>Sign Up</ButtonOutline>
           </div>
         </nav>
