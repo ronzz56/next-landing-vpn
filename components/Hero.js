@@ -42,7 +42,7 @@ const Hero = ({
               <p className="text-black-500 mt-4 mb-6">
                 RonzzAPI provides various API needs such as Downloaders, Converters, Image Processors, Image Generators, Game Username Checkers, for Web Development, Bots, etc.
               </p>
-              <ButtonPrimary href="/signup">Get Started</ButtonPrimary>
+              <ButtonPrimary><a href="/signup">Get Started</a></ButtonPrimary>
             </div>
             <div className="flex w-full">
               <motion.div className="h-full w-full" variants={scrollAnimation}>
