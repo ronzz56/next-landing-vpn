@@ -48,7 +48,7 @@ export default function Signin() {
     </div>
 
     <div class="md:block hidden w-1/2">
-      <img class="rounded-2xl" src="https://img.freepik.com/premium-vector/sign-page-concept-illustration_335657-5551.jpg?w=826" />
+      <img class="rounded-2xl" src="https://img.freepik.com/free-vector/sign-concept-illustration_114360-28907.jpg?t=st=1727791835~exp=1727795435~hmac=d484c52c4f3924308d9bfd3abdbe63695ed259349d2df4714b835b62ce760c15&w=826" />
     </div>
   </div>
 </section>
