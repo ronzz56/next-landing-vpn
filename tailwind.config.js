@@ -40,7 +40,7 @@ module.exports = {
         200: "#EEEEEE",
         400: "#AFB5C0",
         500: "#DDDDDD",
-        600: "#9E9E9E",
+        600: "#757575",
       },
       indigo: {
         600: "#6610F2",
