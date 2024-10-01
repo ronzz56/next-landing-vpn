@@ -87,11 +87,11 @@ const Header = () => {
                   Sign In
               </a>
             </Link>
-            <ButtonOutline>
-              <Link href="/signup">
+            <Link href="/signup">
+              <ButtonOutline>
                   Sign Up
-              </Link>
-            </ButtonOutline>
+              </ButtonOutline>
+            </Link>
           </div>
         </nav>
       </header>
