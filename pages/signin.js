@@ -1,13 +1,6 @@
 export default function Home() {
   return (
     <>
-      <!--
-  Heads up! 👋
-
-  Plugins:
-    - @tailwindcss/forms
--->
-
 <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
   <div class="mx-auto max-w-lg text-center">
     <h1 class="text-2xl font-bold sm:text-3xl">Get started today!</h1>
