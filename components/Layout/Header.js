@@ -87,11 +87,11 @@ const Header = () => {
                   Sign In
               </a>
             </Link>
-            <Link href="/signup">
+            <a href="/signup">
               <ButtonOutline>
                   Sign Up
               </ButtonOutline>
-            </Link>
+            </a>
           </div>
         </nav>
       </header>
