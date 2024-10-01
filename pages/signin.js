@@ -19,7 +19,7 @@ export default function Home() {
         <div class="relative">
           <input
             type="email"
-            class="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+            class="w-full rounded-lg border-gray-400 p-4 pe-12 text-sm shadow-sm"
             placeholder="Enter email"
           />
 
@@ -48,7 +48,7 @@ export default function Home() {
         <div class="relative">
           <input
             type="password"
-            class="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+            class="w-full rounded-lg border-gray-400 p-4 pe-12 text-sm shadow-sm"
             placeholder="Enter password"
           />
 
@@ -79,13 +79,13 @@ export default function Home() {
 
       <button
         type="submit"
-        class="block w-full rounded-lg bg-indigo-600 px-5 py-3 text-sm font-medium text-white"
+        class="block w-full rounded-lg bg-indigo-600 px-5 py-3 text-sm font-medium text-white-500"
       >
-        Sign in
+        Sign In
       </button>
 
       <p class="text-center text-sm text-gray-500">
-        No account?
+        No account? 
         <a class="underline" href="#">Sign up</a>
       </p>
     </form>
