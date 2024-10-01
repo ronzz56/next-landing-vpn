@@ -1,13 +1,6 @@
 export default function Home() {
   return (
     <>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <title>RonzzAPI - Sign In</title>
-</head>
-<body>
 <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
   <div class="mx-auto max-w-lg">
     <h1 class="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">Get started today</h1>
@@ -98,7 +91,6 @@ export default function Home() {
     </form>
   </div>
 </div>
-</body>
     </>
   );
 }
