@@ -1,6 +1,6 @@
 import SeoHead from "../components/SeoHead";
 
-export default function Signin() {
+export default function Signup() {
   return (
     <>
     <SeoHead title='RonzzAPI - Sign Up' />
