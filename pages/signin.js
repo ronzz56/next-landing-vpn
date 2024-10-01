@@ -22,9 +22,9 @@ export default function Signin() {
       </form>
 
       <div class="mt-6 grid grid-cols-3 items-center text-gray-400">
-        <hr class="border-gray-400">
+        <hr class="border-gray-400" />
         <p class="text-center text-sm">OR</p>
-        <hr class="border-gray-400">
+        <hr class="border-gray-400" />
       </div>
 
       <button class="bg-white border py-2 w-full rounded-xl mt-5 flex justify-center items-center text-sm hover:scale-105 duration-300 text-[#002D74]">
