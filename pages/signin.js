@@ -1,3 +1,5 @@
+import SeoHead from "../components/SeoHead";
+
 export default function Signin() {
   return (
     <>
