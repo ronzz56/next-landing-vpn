@@ -7,7 +7,7 @@ const options = {
   premiumLimit: 1000
 }
 
-const mongoURL = ""
+const mongoURL = "mongodb+srv://mahekalonga71:SgqGwK922Nw71uih@cluster0.yre0k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 const google = {
   clientId: "170073054644-f1l2mdd22dv66iq8bdavm5i1qiopg7ap.apps.googleusercontent.com",
