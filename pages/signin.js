@@ -5,7 +5,7 @@ import { authConfig } from "../lib/auth";
 import { redirect } from "next/navigation";
 import { getCsrfToken } from "next-auth/react";
 
-export default function Signin() {
+export default async function Signin() {
   const session = await getServerSession(authConfig);
 
   console.log("Session: ", session);
