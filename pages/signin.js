@@ -1,17 +1,7 @@
 import SeoHead from "../components/SeoHead";
 import authButton from "../components/misc/authButton";
-import { getServerSession } from "next-auth";
-import { authConfig } from "../lib/auth";
-import { redirect } from "next/navigation";
-import { getCsrfToken } from "next-auth/react";
 
 export default async function Signin() {
-  const session = await getServerSession(authConfig);
-
-  console.log("Session: ", session);
-
-  if (session) return redirect("/dash");
-  
   return (
     <>
     <SeoHead title='RonzzAPI - Sign In' />
